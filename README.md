@@ -41,6 +41,3 @@ The best-performing model in the study was the **Bayesian Optimized ExtraTrees C
 - **Precision**: 98.31%
 - **Recall**: 96.5%
 - **ROC-AUC**: 99.7%
-
-## References
-
