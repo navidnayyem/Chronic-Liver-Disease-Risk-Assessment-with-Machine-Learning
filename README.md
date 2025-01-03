@@ -1,4 +1,4 @@
-# Chronic Liver Disease Risk Assessment with Machine Learning
+# Chronic Liver Disease Risk Assessment with Machine Learning: The Role of Stacking and Ensemble Techniques
 
 ## Group Members
 - **Imtiaj Uddin Ahamed**  
